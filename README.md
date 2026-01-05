@@ -10,6 +10,6 @@ Hi, I’m Saul – Computer Science student<br><br>💻 Interests: Programming, 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=saulneedham&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> 
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saulneedham&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saulneedham&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
 
 <!-- Credit: GPRM ( https://gprm.itsvg.in ) -->
