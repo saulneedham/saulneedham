@@ -1,5 +1,5 @@
 # About Me:
-Hi, I’m Saul – Computer Science student<br><br>💻 Interests: Programming, AI, Web Development, Game Dev<br>🛠 Skills: Python, JavaScript, HTML/CSS, C, C++, Java<br>🚀 Goals: Build practical apps, contribute to open source, level up coding skills
+Hi, I’m Saul – BSc Computer Science graduate and aspiring dev<br><br>💻 Interests: Programming, AI, Web Development, Game Dev<br>🛠 Skills: Python, JavaScript, HTML/CSS, C, C++, Java<br>🚀 Goals: Build practical apps, contribute to open source, level up coding skills
 
 
 ## 🌐 Socials:
